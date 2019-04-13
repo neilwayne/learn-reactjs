@@ -9,8 +9,8 @@
 
 .btn-primary {
     color: #fff;
-    background-color: red;
-    border-color: #b90404;
+    background-color: #0e7e33;
+    border-color: #136930;
 }
 
 .btn-info {
@@ -21,12 +21,16 @@
 
 .btn-warning {
     color: #fff;
-    background-color: #0e7e33;
-    border-color: #136930;
+    background-color: red;
+    border-color: #b90404;
 }
 
 .btn-danger {
     color: #fff;
     background-color: #da8507;
     border-color: #ad7b30
+}
+
+.header {
+    font-family: 'Oswald', sans-serif;
 }
