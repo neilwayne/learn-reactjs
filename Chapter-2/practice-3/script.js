@@ -1,4 +1,4 @@
-debugger;   
+
 const student = [{
     id: 1,
     name: 'Budi',
@@ -20,6 +20,6 @@ const student = [{
 let lowGrade = student.filter (x => x.grade < 55);
 console.log (lowGrade);
 
-let studentGender = student.map (x = x + gender: 'male'`);
+let studentGender = student.map (x => x.gender='male');
 console.log (studentGender);
 
